@@ -33,3 +33,7 @@ Your feedback is valuable in improving the dashboard and ensuring it meets the n
 Acknowledgments:
 ----------------
 We acknowledge the sources of population data used in this dashboard and appreciate the contributions of researchers and organizations in compiling and making this data available for analysis.
+
+License:
+--------
+This dashboard is available under the MT license.
