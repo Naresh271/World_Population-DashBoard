@@ -36,4 +36,4 @@ We acknowledge the sources of population data used in this dashboard and appreci
 
 License:
 --------
-This dashboard is available under the MT license.
+This dashboard is available under the MIT license.
